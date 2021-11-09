@@ -6,7 +6,7 @@ With full saving capabilites and HD textures, you'll have a blast!
 Movement: Arrow Keys <br>
 A: X <br>
 B: C <br>
-L: Q <br>
+R: Q <br>
 Z: Space <br>
 Start: Enter <br>
 C-stick: WASD
